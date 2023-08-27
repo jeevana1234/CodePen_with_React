@@ -1,0 +1,23 @@
+
+COMPONENTS: It is a part ofthe user interface
+They are re-usable and can be nested inside the other Components
+
+our app have 5 Components
+1.Header
+2.Side nav
+3.Main Content
+4.Footer
+5. Root (App) Component
+
+Component code is placed inn JS file for example:
+app component code is placed in app.JS
+
+Component type:
+1.Statless Functional component
+    JS Functions
+2. Statful class component
+    Class extending component class Render method returning HTML.
+
+CLASS COMPONETS: is ES6 class
+
+
